@@ -3,7 +3,6 @@
 <head>
 
 <div class="wrapper">
-
   <!-- ── HEADER ── -->
   <header>
     <div class="logo-line">
