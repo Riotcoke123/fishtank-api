@@ -6,7 +6,6 @@
   <!-- ── HEADER ── -->
   <header>
     <div class="logo-line">
-      <span class="fish-icon">🐟</span>
       <h1>fishtank.live</h1>
     </div>
     <p class="tagline">API Reference &amp; Integration Guide</p>
