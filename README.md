@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<div class="wrapper">
+<div class="wrapper"  ![logo-stripe](https://github.com/user-attachments/assets/208cca27-9850-44e6-9f19-1512fa060edc)
   <!-- ── HEADER ── -->
   <header>
     <div class="logo-line">
