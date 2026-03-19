@@ -6,7 +6,7 @@
   <header>
     <div class="logo-line">
       <div class="wrapper" 
-       <img src="https://github.com/user-attachments/assets/208cca27-9850-44e6-9f19-1512fa060edc">
+       <img src="https://github.com/user-attachments/assets/208cca27-9850-44e6-9f19-1512fa060edc.webp">
       <h1>fishtank.live</h1>
     </div>
     <p class="tagline">API Reference &amp; Integration Guide</p>
