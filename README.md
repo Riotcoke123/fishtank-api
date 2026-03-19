@@ -7,7 +7,7 @@
     <div class="logo-line">
       <div class="wrapper" 
       <h1>fishtank.live</h1>
-    </div>
+    </div><br>
       <img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/1ede5504-6c4b-452e-b19c-1b341f0dac3c" />
     <p class="tagline">API Reference &amp; Integration Guide</p>
     <div class="badges">
