@@ -19,7 +19,7 @@
 
   <!-- ── TOC ── -->
   <nav class="toc">
-    <div class="toc-title">// Table of Contents</div>
+    <div class="toc-title"> Table of Contents</div>
     <ol>
       <li><a href="#overview">Overview</a></li>
       <li><a href="#auth">Authentication — <code>/v1/auth</code></a></li>
@@ -32,7 +32,7 @@
 
   <!-- ── OVERVIEW ── -->
   <section id="overview">
-    <div class="section-label">// 01 — Overview</div>
+    <div class="section-label"> 01 — Overview</div>
     <h2>What is fishtank.live?</h2>
     <p>
       <strong>fishtank.live</strong> is a 24/7 interactive live-stream reality show where contestants live together under constant camera surveillance. Viewers can interact in real time, vote on challenges, and influence the house via the web app.
