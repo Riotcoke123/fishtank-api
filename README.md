@@ -55,7 +55,7 @@
 
   <!-- ── AUTH ── -->
   <section id="auth">
-    <div class="section-label">// 02 — Authentication</div>
+    <div class="section-label">02 — Authentication</div>
     <h2>Auth Endpoint</h2>
     <div class="endpoint fade-in">
       <div class="endpoint-header">
@@ -112,7 +112,7 @@
   <hr />
   <!-- ── CHAT ── -->
   <section id="chat">
-    <div class="section-label">// 03 — Chat Settings</div>
+    <div class="section-label"> 03 — Chat Settings</div>
     <h2>Chat Settings</h2>
     <div class="endpoint fade-in">
       <div class="endpoint-header">
