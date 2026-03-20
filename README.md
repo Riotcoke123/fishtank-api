@@ -148,7 +148,7 @@
 
   <!-- ── CONTESTANTS ── -->
   <section id="contestants">
-    <div class="section-label">// 04 — Contestant Cams</div>
+    <div class="section-label"> 04 — Contestant Cams</div>
     <h2>Contestant Cams</h2>
     <div class="endpoint fade-in">
       <div class="endpoint-header">
@@ -247,7 +247,7 @@
 
   <!-- ── CHALLENGES ── -->
   <section id="challenges">
-    <div class="section-label">// 05 — Challenges</div>
+    <div class="section-label"> 05 — Challenges</div>
     <h2>Challenges</h2>
     <div class="endpoint fade-in">
       <div class="endpoint-header">
@@ -307,7 +307,7 @@
 
   <!-- ── USAGE NOTES ── -->
   <section id="usage">
-    <div class="section-label">// 06 — Usage Notes</div>
+    <div class="section-label"> 06 — Usage Notes</div>
     <h2>Usage Notes</h2>
     <h3>Token Lifecycle</h3>
     <p>The <code>access_token</code> is short-lived. Use the <code>refresh_token</code> to obtain a new session before expiry. The <code>live_stream_token</code> is scoped exclusively to the video stream and has a ~24-hour TTL.</p>
